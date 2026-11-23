@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎙️ AI Voice Agent – Audio Transcription & Translation
 
 An AI-powered voice transcription application built with **Python, Streamlit, Groq API, and Whisper**. Upload audio or video recordings and generate transcripts with timestamps, language detection, and speaker labels.
@@ -250,3 +251,7 @@ This project is intended for educational and development purposes. Add a formal 
 ---
 
 **Built with Python, Streamlit, Groq API and AI-powered speech recognition.** 🎙️
+=======
+# Voice_Agent
+AI Voice Agent about voice transcription .  I have  initiated the project to support  voice  transcribe  script  format.  When  we upload  the  audio Temperature  and   tokens should  be maximum  then  select  start  transcription  it will show the output.  If we want  PDF download click  download PDF button . In this project  i am using free model
+>>>>>>> ccfde7b9edce505c5163be9bfa2f0dd0655a1b5d
