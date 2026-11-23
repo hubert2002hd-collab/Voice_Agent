@@ -1,0 +1,6 @@
+(00:00.00-00:01.72) speaker1: Hello, how are you?
+(00:02.92-00:05.18) speaker1: I'm fine. How are you?
+(00:06.52-00:08.14) speaker1: Are you busy today?
+(00:10.02-00:13.90) speaker2: I'm a little busy, but I can manage.
+(00:14.84-00:16.56) speaker2: Did you have your breakfast?
+(00:18.86-00:21.20) speaker3: Yes, I had my breakfast.
